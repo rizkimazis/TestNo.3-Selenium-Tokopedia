@@ -1,4 +1,4 @@
-# Hasil dari Pengetesan Pencarian Web Tokopedia
+# Hasil dari Pengetesan Pencarian Produk Web Tokopedia
 
 # Screenshoot pengujian
 ![Screenshot (107)](https://user-images.githubusercontent.com/106580894/209840835-e0382cb1-2c93-4905-aa08-c6b2b8d0050e.png)
