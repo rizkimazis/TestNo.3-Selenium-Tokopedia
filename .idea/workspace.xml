@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb4c1633-9aa8-4e38-92c2-29f4fb70c1dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/drivers/DriverSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/drivers/strategies/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/drivers/strategies/DriverStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/drivers/strategies/DriverStrategyImplementer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/drivers/strategies/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/pages/JumlahProduk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rizkimaulanaazis/selenium/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rizkimaulanaazis/selenium/pageobject/TestJumlahProduk.java" afterDir="false" />
+    <list default="true" id="bb4c1633-9aa8-4e38-92c2-29f4fb70c1dc" name="Changes" comment="Soal Test No.3 Tokopedia (PT.DIKA)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669448640663</updated>
     </task>
+    <task id="LOCAL-00001" summary="Soal Test No.3 Tokopedia (PT.DIKA)">
+      <created>1669474106255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669474106255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Soal Test No.3 Tokopedia (PT.DIKA)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soal Test No.3 Tokopedia (PT.DIKA)" />
   </component>
 </project>

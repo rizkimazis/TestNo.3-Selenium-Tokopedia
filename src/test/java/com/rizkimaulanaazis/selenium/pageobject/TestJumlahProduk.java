@@ -51,7 +51,7 @@ public class TestJumlahProduk {
 //    @Test
 //    public void noHpAtauEmail() {
 //        //delay(Constants.DETIK);
-//        jumlahproduk.noHpAtauEmail("rizkimaulanaazis@yahoo.co.id");
+//        jumlahproduk.noHpAtauEmail("rizkimaulanaazis12@gmail.com");
 //        System.out.println("Test Case input No HP atau Email");
 //    }
 //
@@ -65,7 +65,7 @@ public class TestJumlahProduk {
 //    @Test
 //    public void kataSandi() {
 //        //delay(Constants.DETIK);
-//        jumlahproduk.kataSandi("YoungRich1288");
+//        jumlahproduk.kataSandi("Young1288");
 //        System.out.println("Test Case input Kata Sandi");
 //    }
 //
