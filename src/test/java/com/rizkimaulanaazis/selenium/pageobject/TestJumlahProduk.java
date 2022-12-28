@@ -34,55 +34,6 @@ public class TestJumlahProduk {
         DriverSingleton.closeObjectInstance();
     }
 
-//    @Test
-//    public void btnMasuk() {
-//        //delay(Constants.DETIK);
-//        jumlahproduk.btnMasuk();
-//        System.out.println("Test Case btn masuk");
-//    }
-//
-//    @Test
-//    public void overlayMasuk() {
-//        //delay(Constants.DETIK);
-//        jumlahproduk.overlayMasuk();
-//        System.out.println("Test Case overlay masuk");
-//    }
-//
-//    @Test
-//    public void noHpAtauEmail() {
-//        //delay(Constants.DETIK);
-//        jumlahproduk.noHpAtauEmail("rizkimaulanaazis12@gmail.com");
-//        System.out.println("Test Case input No HP atau Email");
-//    }
-//
-//    @Test
-//    public void btnSelanjutnya() {
-//        //delay(Constants.DETIK);
-//        jumlahproduk.btnSelanjutnya();
-//        System.out.println("Test Case btn Selanjutnya");
-//    }
-//
-//    @Test
-//    public void kataSandi() {
-//        //delay(Constants.DETIK);
-//        jumlahproduk.kataSandi("Young1288");
-//        System.out.println("Test Case input Kata Sandi");
-//    }
-//
-//    @Test
-//    public void btnLogin() {
-//        //delay(Constants.DETIK);
-//        jumlahproduk.btnLogin();
-//        System.out.println("Test Case btn Login");
-//    }
-//
-//    @Test
-//    public void txtDashboardTokopedia() {
-//        //delay(Constants.DETIK);
-//        Assert.assertEquals(jumlahproduk.getTxtDashboardTokopedia(), "");
-//        System.out.println("Test Case Dashboard Tokopedia");
-//    }
-
     @Test
     public void menuPencarian() {
         delay(Constants.DETIK);
