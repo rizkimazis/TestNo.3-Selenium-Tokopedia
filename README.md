@@ -1,8 +1,13 @@
 # Hasil dari Pengetesan Pencarian Web Tokopedia
 
 # Screenshoot pengujian
-![Screenshot (103)](https://user-images.githubusercontent.com/106580894/204094963-0f2f6319-f584-46b6-bf39-ace6f4262253.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/106580894/209840835-e0382cb1-2c93-4905-aa08-c6b2b8d0050e.png)
+
 
 # Video pengujian
-https://user-images.githubusercontent.com/106580894/204095989-35a07d2c-7acb-460b-89a3-40bffe7cac44.mp4
+
+
+https://user-images.githubusercontent.com/106580894/209840876-fe9e8f0d-5d08-43c7-9438-534f010b8509.mp4
+
+
 
